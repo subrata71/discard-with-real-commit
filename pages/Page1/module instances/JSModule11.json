@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1": "[]",
+      "getUsers": "[]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -22,12 +22,12 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "okwrxmsezf",
-        "label": "myFun1",
+        "label": "getUsers",
         "propertyName": "inputs.myFun1"
       }
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }
