@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "getUsers": "[]",
+      "getDataFromQueryModule1": "[]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -22,12 +22,12 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "okwrxmsezf",
-        "label": "getUsers",
+        "label": "getDataFromQueryModule1",
         "propertyName": "inputs.myFun1"
       }
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.2"
+    "version": "0.0.7"
   }
 }
